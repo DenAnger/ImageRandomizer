@@ -1,10 +1,9 @@
 # ImageRandomizer
 
-works with
 [![IDE](https://img.shields.io/badge/Xcode-15.2-blue.svg)](https://developer.apple.com/xcode/)
 [![Language](https://img.shields.io/badge/swift-5.9-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-orange.svg)](https://swift.org)
-[![Platform](https://img.shields.io/badge/platform-iOS%15.2-green.svg)](https://developer.apple.com/ios/)
+[![Platform](https://img.shields.io/badge/platform-iOS%2515.2-green.svg)](https://developer.apple.com/ios/)
 
 ### Описание
 Отображает рандомное изображение.
